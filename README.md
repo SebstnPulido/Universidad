@@ -1,6 +1,7 @@
 <h1 align="center">
-  <tt>Calc Box</tt>
+  <tt>Universidad</tt>
 </h1>
 
 # Descripción
-Código basado en un Algoritmo para calcular PESO y ALTURA de 4 Boxeadores, luego, sacar promedio del peso y altura total.
+Aquí estarán almacenados todos mis trabajos realizados en mi periodo de estudios de mi Universidad, en la carrera de Ingeniería de Sistemas.
+cursando desde el Semestre #1 hasta el Semetres #10.
